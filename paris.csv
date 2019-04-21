@@ -1,0 +1,226 @@
+,Origin,Destination,Ori,Dest,Distance,Duration,Time
+0,0,0,Eiffel Tower,Eiffel Tower,1 m,1 min,1
+1,0,1,Eiffel Tower,Louvre Museum,3.8 km,48 mins,48
+2,0,2,Eiffel Tower,Notre-Dame de Paris,4.8 km,1 hour 0 mins,60
+3,0,3,Eiffel Tower,Arc de Triomphe,2.2 km,30 mins,30
+4,0,4,Eiffel Tower,Wall of Love,5.1 km,1 hour 9 mins,69
+5,0,5,Eiffel Tower,The Basilica of the Sacred Heart of Paris,5.7 km,1 hour 18 mins,78
+6,0,6,Eiffel Tower,Moulin Rouge,4.7 km,1 hour 3 mins,63
+7,0,7,Eiffel Tower,Museum,2.8 km,34 mins,34
+8,0,8,Eiffel Tower,Tuileries Garden,3.0 km,37 mins,37
+9,0,9,Eiffel Tower,Orangerie Museum,2.6 km,34 mins,34
+10,0,10,Eiffel Tower,Latin Quarter,4.3 km,55 mins,55
+11,0,11,Eiffel Tower,Luxembourg Gardens,3.9 km,51 mins,51
+12,0,12,Eiffel Tower,Saint-Germain-des-Pres,3.3 km,42 mins,42
+13,0,13,Eiffel Tower,Picasso National Museum,5.9 km,1 hour 14 mins,74
+14,0,14,Eiffel Tower,The Centre Pompidou,5.1 km,1 hour 4 mins,64
+15,1,0,Louvre Museum,Eiffel Tower,3.8 km,48 mins,48
+16,1,1,Louvre Museum,Louvre Museum,1 m,1 min,1
+17,1,2,Louvre Museum,Notre-Dame de Paris,1.6 km,20 mins,20
+18,1,3,Louvre Museum,Arc de Triomphe,3.7 km,48 mins,48
+19,1,4,Louvre Museum,Wall of Love,3.0 km,42 mins,42
+20,1,5,Louvre Museum,The Basilica of the Sacred Heart of Paris,3.5 km,49 mins,49
+21,1,6,Louvre Museum,Moulin Rouge,2.9 km,39 mins,39
+22,1,7,Louvre Museum,Museum,1.1 km,14 mins,14
+23,1,8,Louvre Museum,Tuileries Garden,1.1 km,14 mins,14
+24,1,9,Louvre Museum,Orangerie Museum,1.4 km,17 mins,17
+25,1,10,Louvre Museum,Latin Quarter,1.5 km,20 mins,20
+26,1,11,Louvre Museum,Luxembourg Gardens,1.8 km,24 mins,24
+27,1,12,Louvre Museum,Saint-Germain-des-Pres,1.0 km,13 mins,13
+28,1,13,Louvre Museum,Picasso National Museum,2.3 km,29 mins,29
+29,1,14,Louvre Museum,The Centre Pompidou,1.3 km,17 mins,17
+30,2,0,Notre-Dame de Paris,Eiffel Tower,4.8 km,1 hour 0 mins,60
+31,2,1,Notre-Dame de Paris,Louvre Museum,1.6 km,21 mins,21
+32,2,2,Notre-Dame de Paris,Notre-Dame de Paris,1 m,1 min,1
+33,2,3,Notre-Dame de Paris,Arc de Triomphe,5.1 km,1 hour 7 mins,67
+34,2,4,Notre-Dame de Paris,Wall of Love,4.1 km,55 mins,55
+35,2,5,Notre-Dame de Paris,The Basilica of the Sacred Heart of Paris,4.9 km,1 hour 6 mins,66
+36,2,6,Notre-Dame de Paris,Moulin Rouge,4.1 km,55 mins,55
+37,2,7,Notre-Dame de Paris,Museum,2.0 km,25 mins,25
+38,2,8,Notre-Dame de Paris,Tuileries Garden,2.5 km,32 mins,32
+39,2,9,Notre-Dame de Paris,Orangerie Museum,2.7 km,35 mins,35
+40,2,10,Notre-Dame de Paris,Latin Quarter,0.5 km,7 mins,7
+41,2,11,Notre-Dame de Paris,Luxembourg Gardens,1.6 km,21 mins,21
+42,2,12,Notre-Dame de Paris,Saint-Germain-des-Pres,1.4 km,19 mins,19
+43,2,13,Notre-Dame de Paris,Picasso National Museum,1.4 km,19 mins,19
+44,2,14,Notre-Dame de Paris,The Centre Pompidou,1.1 km,14 mins,14
+45,3,0,Arc de Triomphe,Eiffel Tower,2.2 km,28 mins,28
+46,3,1,Arc de Triomphe,Louvre Museum,3.7 km,46 mins,46
+47,3,2,Arc de Triomphe,Notre-Dame de Paris,5.1 km,1 hour 5 mins,65
+48,3,3,Arc de Triomphe,Arc de Triomphe,1 m,1 min,1
+49,3,4,Arc de Triomphe,Wall of Love,3.9 km,51 mins,51
+50,3,5,Arc de Triomphe,The Basilica of the Sacred Heart of Paris,4.4 km,1 hour 0 mins,60
+51,3,6,Arc de Triomphe,Moulin Rouge,3.2 km,42 mins,42
+52,3,7,Arc de Triomphe,Museum,3.1 km,39 mins,39
+53,3,8,Arc de Triomphe,Tuileries Garden,2.9 km,36 mins,36
+54,3,9,Arc de Triomphe,Orangerie Museum,2.6 km,33 mins,33
+55,3,10,Arc de Triomphe,Latin Quarter,5.0 km,1 hour 4 mins,64
+56,3,11,Arc de Triomphe,Luxembourg Gardens,5.1 km,1 hour 6 mins,66
+57,3,12,Arc de Triomphe,Saint-Germain-des-Pres,4.0 km,51 mins,51
+58,3,13,Arc de Triomphe,Picasso National Museum,5.7 km,1 hour 12 mins,72
+59,3,14,Arc de Triomphe,The Centre Pompidou,4.8 km,59 mins,59
+60,4,0,Wall of Love,Eiffel Tower,5.1 km,1 hour 5 mins,65
+61,4,1,Wall of Love,Louvre Museum,3.0 km,38 mins,38
+62,4,2,Wall of Love,Notre-Dame de Paris,4.1 km,51 mins,51
+63,4,3,Wall of Love,Arc de Triomphe,3.9 km,49 mins,49
+64,4,4,Wall of Love,Wall of Love,1 m,1 min,1
+65,4,5,Wall of Love,The Basilica of the Sacred Heart of Paris,0.7 km,10 mins,10
+66,4,6,Wall of Love,Moulin Rouge,0.6 km,7 mins,7
+67,4,7,Wall of Love,Museum,3.3 km,43 mins,43
+68,4,8,Wall of Love,Tuileries Garden,2.9 km,36 mins,36
+69,4,9,Wall of Love,Orangerie Museum,3.1 km,39 mins,39
+70,4,10,Wall of Love,Latin Quarter,4.2 km,54 mins,54
+71,4,11,Wall of Love,Luxembourg Gardens,4.9 km,1 hour 2 mins,62
+72,4,12,Wall of Love,Saint-Germain-des-Pres,3.9 km,50 mins,50
+73,4,13,Wall of Love,Picasso National Museum,3.9 km,49 mins,49
+74,4,14,Wall of Love,The Centre Pompidou,3.2 km,41 mins,41
+75,5,0,The Basilica of the Sacred Heart of Paris,Eiffel Tower,5.9 km,1 hour 15 mins,75
+76,5,1,The Basilica of the Sacred Heart of Paris,Louvre Museum,3.6 km,46 mins,46
+77,5,2,The Basilica of the Sacred Heart of Paris,Notre-Dame de Paris,4.8 km,1 hour 0 mins,60
+78,5,3,The Basilica of the Sacred Heart of Paris,Arc de Triomphe,4.4 km,56 mins,56
+79,5,4,The Basilica of the Sacred Heart of Paris,Wall of Love,0.7 km,10 mins,10
+80,5,5,The Basilica of the Sacred Heart of Paris,The Basilica of the Sacred Heart of Paris,1 m,1 min,1
+81,5,6,The Basilica of the Sacred Heart of Paris,Moulin Rouge,1.2 km,15 mins,15
+82,5,7,The Basilica of the Sacred Heart of Paris,Museum,3.9 km,50 mins,50
+83,5,8,The Basilica of the Sacred Heart of Paris,Tuileries Garden,3.5 km,45 mins,45
+84,5,9,The Basilica of the Sacred Heart of Paris,Orangerie Museum,3.7 km,47 mins,47
+85,5,10,The Basilica of the Sacred Heart of Paris,Latin Quarter,4.9 km,1 hour 3 mins,63
+86,5,11,The Basilica of the Sacred Heart of Paris,Luxembourg Gardens,5.5 km,1 hour 9 mins,69
+87,5,12,The Basilica of the Sacred Heart of Paris,Saint-Germain-des-Pres,4.5 km,58 mins,58
+88,5,13,The Basilica of the Sacred Heart of Paris,Picasso National Museum,4.1 km,52 mins,52
+89,5,14,The Basilica of the Sacred Heart of Paris,The Centre Pompidou,3.8 km,48 mins,48
+90,6,0,Moulin Rouge,Eiffel Tower,4.7 km,1 hour 0 mins,60
+91,6,1,Moulin Rouge,Louvre Museum,2.9 km,37 mins,37
+92,6,2,Moulin Rouge,Notre-Dame de Paris,4.1 km,52 mins,52
+93,6,3,Moulin Rouge,Arc de Triomphe,3.2 km,42 mins,42
+94,6,4,Moulin Rouge,Wall of Love,0.6 km,9 mins,9
+95,6,5,Moulin Rouge,The Basilica of the Sacred Heart of Paris,1.2 km,18 mins,18
+96,6,6,Moulin Rouge,Moulin Rouge,1 m,1 min,1
+97,6,7,Moulin Rouge,Museum,3.0 km,40 mins,40
+98,6,8,Moulin Rouge,Tuileries Garden,2.6 km,33 mins,33
+99,6,9,Moulin Rouge,Orangerie Museum,2.8 km,35 mins,35
+100,6,10,Moulin Rouge,Latin Quarter,4.2 km,55 mins,55
+101,6,11,Moulin Rouge,Luxembourg Gardens,4.7 km,1 hour 0 mins,60
+102,6,12,Moulin Rouge,Saint-Germain-des-Pres,3.8 km,49 mins,49
+103,6,13,Moulin Rouge,Picasso National Museum,3.9 km,50 mins,50
+104,6,14,Moulin Rouge,The Centre Pompidou,3.3 km,41 mins,41
+105,7,0,Museum,Eiffel Tower,2.7 km,34 mins,34
+106,7,1,Museum,Louvre Museum,1.1 km,14 mins,14
+107,7,2,Museum,Notre-Dame de Paris,2.0 km,25 mins,25
+108,7,3,Museum,Arc de Triomphe,3.1 km,41 mins,41
+109,7,4,Museum,Wall of Love,3.3 km,46 mins,46
+110,7,5,Museum,The Basilica of the Sacred Heart of Paris,3.9 km,55 mins,55
+111,7,6,Museum,Moulin Rouge,3.0 km,42 mins,42
+112,7,7,Museum,Museum,1 m,1 min,1
+113,7,8,Museum,Tuileries Garden,0.7 km,9 mins,9
+114,7,9,Museum,Orangerie Museum,0.7 km,9 mins,9
+115,7,10,Museum,Latin Quarter,2.0 km,25 mins,25
+116,7,11,Museum,Luxembourg Gardens,2.2 km,27 mins,27
+117,7,12,Museum,Saint-Germain-des-Pres,1.2 km,15 mins,15
+118,7,13,Museum,Picasso National Museum,3.2 km,40 mins,40
+119,7,14,Museum,The Centre Pompidou,2.4 km,30 mins,30
+120,8,0,Tuileries Garden,Eiffel Tower,3.0 km,38 mins,38
+121,8,1,Tuileries Garden,Louvre Museum,1.1 km,14 mins,14
+122,8,2,Tuileries Garden,Notre-Dame de Paris,2.5 km,31 mins,31
+123,8,3,Tuileries Garden,Arc de Triomphe,2.9 km,38 mins,38
+124,8,4,Tuileries Garden,Wall of Love,2.9 km,40 mins,40
+125,8,5,Tuileries Garden,The Basilica of the Sacred Heart of Paris,3.4 km,48 mins,48
+126,8,6,Tuileries Garden,Moulin Rouge,2.6 km,35 mins,35
+127,8,7,Tuileries Garden,Museum,0.7 km,9 mins,9
+128,8,8,Tuileries Garden,Tuileries Garden,1 m,1 min,1
+129,8,9,Tuileries Garden,Orangerie Museum,0.4 km,5 mins,5
+130,8,10,Tuileries Garden,Latin Quarter,2.4 km,31 mins,31
+131,8,11,Tuileries Garden,Luxembourg Gardens,2.6 km,33 mins,33
+132,8,12,Tuileries Garden,Saint-Germain-des-Pres,1.6 km,20 mins,20
+133,8,13,Tuileries Garden,Picasso National Museum,3.1 km,40 mins,40
+134,8,14,Tuileries Garden,The Centre Pompidou,2.1 km,27 mins,27
+135,9,0,Orangerie Museum,Eiffel Tower,2.6 km,34 mins,34
+136,9,1,Orangerie Museum,Louvre Museum,1.4 km,17 mins,17
+137,9,2,Orangerie Museum,Notre-Dame de Paris,2.7 km,34 mins,34
+138,9,3,Orangerie Museum,Arc de Triomphe,2.6 km,35 mins,35
+139,9,4,Orangerie Museum,Wall of Love,3.1 km,42 mins,42
+140,9,5,Orangerie Museum,The Basilica of the Sacred Heart of Paris,3.7 km,52 mins,52
+141,9,6,Orangerie Museum,Moulin Rouge,2.8 km,38 mins,38
+142,9,7,Orangerie Museum,Museum,0.7 km,9 mins,9
+143,9,8,Orangerie Museum,Tuileries Garden,0.4 km,5 mins,5
+144,9,9,Orangerie Museum,Orangerie Museum,1 m,1 min,1
+145,9,10,Orangerie Museum,Latin Quarter,2.7 km,34 mins,34
+146,9,11,Orangerie Museum,Luxembourg Gardens,2.8 km,36 mins,36
+147,9,12,Orangerie Museum,Saint-Germain-des-Pres,1.7 km,23 mins,23
+148,9,13,Orangerie Museum,Picasso National Museum,3.5 km,45 mins,45
+149,9,14,Orangerie Museum,The Centre Pompidou,2.5 km,32 mins,32
+150,10,0,Latin Quarter,Eiffel Tower,4.3 km,55 mins,55
+151,10,1,Latin Quarter,Louvre Museum,1.5 km,20 mins,20
+152,10,2,Latin Quarter,Notre-Dame de Paris,0.5 km,7 mins,7
+153,10,3,Latin Quarter,Arc de Triomphe,5.0 km,1 hour 6 mins,66
+154,10,4,Latin Quarter,Wall of Love,4.2 km,58 mins,58
+155,10,5,Latin Quarter,The Basilica of the Sacred Heart of Paris,4.7 km,1 hour 5 mins,65
+156,10,6,Latin Quarter,Moulin Rouge,4.4 km,59 mins,59
+157,10,7,Latin Quarter,Museum,2.0 km,25 mins,25
+158,10,8,Latin Quarter,Tuileries Garden,2.4 km,31 mins,31
+159,10,9,Latin Quarter,Orangerie Museum,2.7 km,34 mins,34
+160,10,10,Latin Quarter,Latin Quarter,1 m,1 min,1
+161,10,11,Latin Quarter,Luxembourg Gardens,1.1 km,14 mins,14
+162,10,12,Latin Quarter,Saint-Germain-des-Pres,1.0 km,13 mins,13
+163,10,13,Latin Quarter,Picasso National Museum,1.9 km,26 mins,26
+164,10,14,Latin Quarter,The Centre Pompidou,1.3 km,17 mins,17
+165,11,0,Luxembourg Gardens,Eiffel Tower,3.9 km,50 mins,50
+166,11,1,Luxembourg Gardens,Louvre Museum,1.8 km,23 mins,23
+167,11,2,Luxembourg Gardens,Notre-Dame de Paris,1.6 km,20 mins,20
+168,11,3,Luxembourg Gardens,Arc de Triomphe,5.1 km,1 hour 7 mins,67
+169,11,4,Luxembourg Gardens,Wall of Love,4.9 km,1 hour 4 mins,64
+170,11,5,Luxembourg Gardens,The Basilica of the Sacred Heart of Paris,5.3 km,1 hour 11 mins,71
+171,11,6,Luxembourg Gardens,Moulin Rouge,4.7 km,1 hour 2 mins,62
+172,11,7,Luxembourg Gardens,Museum,2.2 km,26 mins,26
+173,11,8,Luxembourg Gardens,Tuileries Garden,2.6 km,32 mins,32
+174,11,9,Luxembourg Gardens,Orangerie Museum,2.8 km,35 mins,35
+175,11,10,Luxembourg Gardens,Latin Quarter,1.1 km,13 mins,13
+176,11,11,Luxembourg Gardens,Luxembourg Gardens,1 m,1 min,1
+177,11,12,Luxembourg Gardens,Saint-Germain-des-Pres,1.1 km,14 mins,14
+178,11,13,Luxembourg Gardens,Picasso National Museum,3.0 km,39 mins,39
+179,11,14,Luxembourg Gardens,The Centre Pompidou,2.2 km,29 mins,29
+180,12,0,Saint-Germain-des-Pres,Eiffel Tower,3.3 km,42 mins,42
+181,12,1,Saint-Germain-des-Pres,Louvre Museum,1.0 km,13 mins,13
+182,12,2,Saint-Germain-des-Pres,Notre-Dame de Paris,1.4 km,19 mins,19
+183,12,3,Saint-Germain-des-Pres,Arc de Triomphe,4.0 km,53 mins,53
+184,12,4,Saint-Germain-des-Pres,Wall of Love,3.9 km,54 mins,54
+185,12,5,Saint-Germain-des-Pres,The Basilica of the Sacred Heart of Paris,4.4 km,1 hour 1 min,61
+186,12,6,Saint-Germain-des-Pres,Moulin Rouge,3.8 km,51 mins,51
+187,12,7,Saint-Germain-des-Pres,Museum,1.2 km,14 mins,14
+188,12,8,Saint-Germain-des-Pres,Tuileries Garden,1.6 km,20 mins,20
+189,12,9,Saint-Germain-des-Pres,Orangerie Museum,1.7 km,22 mins,22
+190,12,10,Saint-Germain-des-Pres,Latin Quarter,1.0 km,13 mins,13
+191,12,11,Saint-Germain-des-Pres,Luxembourg Gardens,1.1 km,15 mins,15
+192,12,12,Saint-Germain-des-Pres,Saint-Germain-des-Pres,1 m,1 min,1
+193,12,13,Saint-Germain-des-Pres,Picasso National Museum,2.8 km,36 mins,36
+194,12,14,Saint-Germain-des-Pres,The Centre Pompidou,2.0 km,26 mins,26
+195,13,0,Picasso National Museum,Eiffel Tower,5.9 km,1 hour 15 mins,75
+196,13,1,Picasso National Museum,Louvre Museum,2.3 km,29 mins,29
+197,13,2,Picasso National Museum,Notre-Dame de Paris,1.4 km,19 mins,19
+198,13,3,Picasso National Museum,Arc de Triomphe,5.7 km,1 hour 14 mins,74
+199,13,4,Picasso National Museum,Wall of Love,3.9 km,52 mins,52
+200,13,5,Picasso National Museum,The Basilica of the Sacred Heart of Paris,4.1 km,57 mins,57
+201,13,6,Picasso National Museum,Moulin Rouge,3.9 km,52 mins,52
+202,13,7,Picasso National Museum,Museum,3.1 km,40 mins,40
+203,13,8,Picasso National Museum,Tuileries Garden,3.1 km,40 mins,40
+204,13,9,Picasso National Museum,Orangerie Museum,3.5 km,45 mins,45
+205,13,10,Picasso National Museum,Latin Quarter,2.0 km,25 mins,25
+206,13,11,Picasso National Museum,Luxembourg Gardens,3.0 km,40 mins,40
+207,13,12,Picasso National Museum,Saint-Germain-des-Pres,2.8 km,36 mins,36
+208,13,13,Picasso National Museum,Picasso National Museum,1 m,1 min,1
+209,13,14,Picasso National Museum,The Centre Pompidou,1.0 km,13 mins,13
+210,14,0,The Centre Pompidou,Eiffel Tower,5.1 km,1 hour 4 mins,64
+211,14,1,The Centre Pompidou,Louvre Museum,1.3 km,17 mins,17
+212,14,2,The Centre Pompidou,Notre-Dame de Paris,1.1 km,14 mins,14
+213,14,3,The Centre Pompidou,Arc de Triomphe,4.8 km,1 hour 1 min,61
+214,14,4,The Centre Pompidou,Wall of Love,3.2 km,44 mins,44
+215,14,5,The Centre Pompidou,The Basilica of the Sacred Heart of Paris,3.8 km,53 mins,53
+216,14,6,The Centre Pompidou,Moulin Rouge,3.3 km,44 mins,44
+217,14,7,The Centre Pompidou,Museum,2.3 km,30 mins,30
+218,14,8,The Centre Pompidou,Tuileries Garden,2.1 km,27 mins,27
+219,14,9,The Centre Pompidou,Orangerie Museum,2.5 km,32 mins,32
+220,14,10,The Centre Pompidou,Latin Quarter,1.3 km,17 mins,17
+221,14,11,The Centre Pompidou,Luxembourg Gardens,2.2 km,30 mins,30
+222,14,12,The Centre Pompidou,Saint-Germain-des-Pres,2.0 km,26 mins,26
+223,14,13,The Centre Pompidou,Picasso National Museum,1.0 km,13 mins,13
+224,14,14,The Centre Pompidou,The Centre Pompidou,1 m,1 min,1
