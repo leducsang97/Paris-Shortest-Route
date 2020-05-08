@@ -6,4 +6,6 @@ This is a example of travelling salesman problem. The LP is written as an intege
 My first attemp is brute force in which I try any possible solution to find the shortest time. This solution only works with small number of places.
 To boost up the process of solving problem, I use Gurobi optimizer.
 
+Checkout Optimization_10.ipynb and enjoy!
+
 Thank you very much.
